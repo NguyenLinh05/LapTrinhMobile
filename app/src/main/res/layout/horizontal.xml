@@ -15,7 +15,7 @@
         android:text="A"
         android:textSize="30sp"
         android:gravity="center"
-        android:background="#00FF00"
+        android:background="#5E35B1"
         android:paddingLeft="10dp"/>
 
     <TextView

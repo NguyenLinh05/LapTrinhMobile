@@ -16,7 +16,7 @@
         android:layout_weight="1"
         android:text="A"
         android:textSize="30sp"
-        android:gravity="center"
+        android:gravity="left"
         android:backgroundc="#00FF00"
         android:paddingLeft="10dp"/>
 
